@@ -1,5 +1,5 @@
-## Physics-Motivated Geometric Representation for Propagation-State Prediction in 3D UAV Communication Environments
-# Author(s): Najmeh Alibabaie , Antonello Calabrò, Eda Marchetti
+# Physics-Motivated Geometric Representation for Propagation-State Prediction in 3D UAV Communication Environments
+## Author(s): Najmeh Alibabaie , Antonello Calabrò, Eda Marchetti
 # Abstract.
 Maintaining reliable communication in air-to-ground networks requires accurate modeling of the physical environment and radio propagation, as rapid spatial variations in channel conditions significantly affect communication quality. Existing approaches either rely on computationally intensive propagation models or employ generic environment representations. A key challenge is to develop environment representations that are computationally efficient while preserving the physical characteristics relevant to radio propagation. 
 This paper introduces a physics-motivated geometric representation that links environment geometry to radio propagation for characterizing line-of-sight (LOS), non-line-of-sight (NLOS), and blocked propagation states.
